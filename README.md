@@ -54,6 +54,7 @@ The core functions implemented in **DL_A1.ipynb** include:
 - **DL_A1.ipynb** – The main notebook containing the complete neural network implementation, including model training, evaluation, and visualization.
 - **DL_A1_Q1.ipynb** & **DL_A1_Q2.ipynb** – Initial drafts used for developing the neural network model.
 - **trainmatrix.png** & **testmatrix.png** – Confusion matrix images for analyzing model performance.
+- **requirements.txt** - Requirements
 
 ### Summary:
 - The notebook **DL_A1.ipynb** contains the full implementation and training pipeline.
