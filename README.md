@@ -2,6 +2,10 @@
 
 ## Author: P. Shahista Afreen
 
+## Link to GitHub: https://github.com/ShahistaAfreen/DL_A1
+
+## Link to the wandb report:https://wandb.ai/na21b050-iit-madras/Plotting%20images%20from%20each%20class/reports/DA6401-Assignment-1--VmlldzoxMTY5NzgzOA/edit?draftId=VmlldzoxMTY5Nzg1Mw%3D%3D&panelId=bt1o8enq4
+
 ### Instructions to Train and Evaluate the Neural Network Model:
 
 1. Install the required dependencies using:
