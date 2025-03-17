@@ -44,11 +44,16 @@ The core functions implemented in **DL_A1.ipynb** include:
    - Supports various optimization algorithms and loss functions.
    - Returns trained model parameters and epoch-wise cost values.
 
-#### 2. `NN_predict()`
+#### 2. `predict_nn()`
    - Performs a forward pass to predict output labels given input data.
 
-#### 3. `NN_evaluate()`
+#### 3. `evaluate_nn()`
    - Computes and prints training accuracy, test accuracy, and the classification report.
+
+### Code Organization
+- **DL_A1.ipynb** – The main notebook containing the complete neural network implementation, including model training, evaluation, and visualization.
+- **DL_A1_Q1.ipynb** & **DL_A1_Q2.ipynb** – Initial drafts used for developing the neural network model.
+- **trainmatrix.png** & **testmatrix.png** – Confusion matrix images for analyzing model performance.
 
 ### Summary:
 - The notebook **DL_A1.ipynb** contains the full implementation and training pipeline.
