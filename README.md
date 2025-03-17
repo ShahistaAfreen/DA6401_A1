@@ -1,4 +1,4 @@
-# CSDA6401 Assignment 1
+# DA6401 Assignment 1
 
 ## Author: P. Shahista Afreen
 
@@ -35,7 +35,7 @@
 
 ### Explanation of the Project:
 
-This repository contains the implementation for Assignment 1 of CS6910. The code is structured procedurally, avoiding deep learning libraries like Keras for clarity and understanding. The neural network framework supports multiple optimizers, activation functions, and loss functions, providing an end-to-end pipeline for training and evaluating models on the Fashion-MNIST dataset.
+This repository contains the implementation for Assignment 1 of DA6401. The code is structured procedurally, avoiding deep learning libraries like Keras for clarity and understanding. The neural network framework supports multiple optimizers, activation functions, and loss functions, providing an end-to-end pipeline for training and evaluating models on the Fashion-MNIST dataset.
 
 The core functions implemented in **DL_A1.ipynb** include:
 
